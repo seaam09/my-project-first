@@ -1,0 +1,173 @@
+body {
+    font-family: "Work Sans", sans-serif;
+}
+
+.background-pic {
+    background-image: url('../image/banner1.png');
+    width: 1600px;
+    height: 808px;
+}
+
+.header-contaner {
+    text-align: right;
+    padding-top: 216px;
+    padding-right: 230px;
+    padding-left: 845px;
+}
+
+.header-title {
+    color: #151414;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.header-discription {
+    color: #444343;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+
+}
+
+.header-button {
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: 0px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700px;
+    padding: 16px 30px;
+}
+
+.main-contaner {
+    display: flex;
+    margin: 120px;
+    align-items: center;
+}
+
+.content-title {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    width: 288px;
+}
+
+.content-discription {
+    color: #444343;
+    font-size: 16px;
+    width: 416px;
+    padding-top: 5px;
+}
+
+.content-item {
+    color: #444343;
+    font-size: 16px;
+}
+
+.content-contaner {
+    text-align: left;
+    /* margin: 100px 0px 50px 50px ; */
+
+}
+
+.plan-contaner {
+    /* display: flex; */
+    /* gap: 30px; */
+    /* text-align: center; */
+}
+
+.my-plans {
+    align-items: center;
+}
+
+.plan-title {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.plan {
+    display: flex;
+    gap: 50px;
+    padding: 30px 500px;
+}
+
+.main-pic {
+    background-image: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0.00) 100%), url('../image/watch.png');
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    border-radius: 8px;
+    margin: 50px 200px;
+}
+
+.main-pic-title {
+    padding: 60px 617px 0px 64px;
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.header-button {
+    margin-left: 64px;
+}
+
+.footer {
+    background-color: #151414;
+}
+
+.footer-section {
+    display: flex;
+    gap: 50px;
+    margin-top: 150px;
+    padding: 130px 130px;
+
+}
+
+.footer-title {
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.footer-description {
+    color: #FFF;
+    font-size: 16px;
+    width: 485px;
+}
+
+.email {
+    color: #FFF;
+    font-size: 16px;
+}
+
+.phone {
+    color: #FFF;
+    font-size: 16px;
+}
+
+.column-2 {
+    width: 50%;
+    /* text-align: left; */
+    display: block;
+}
+
+.footer-title-2 {
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.form-email {
+    margin-bottom: 20px;
+    width: 325px;
+    height: 64px;
+    
+    border-radius: 8px;
+    border: 1px solid #FFF;
+}
+
+.footer-title-2 {}
